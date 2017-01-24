@@ -1,6 +1,5 @@
 # Your golf coach has given you the following table,
 # which represents the club you should use based on your distance from the hole, in yards.
-require "pry"
 club_advise = {
 driver: 200,
 four_wood: 180,
@@ -31,5 +30,3 @@ end
 #   puts "#{club_advise[y]}"
 # end
 # end
-# binding.pry
-# break
